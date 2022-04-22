@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70715398538",
+    "project_id": "pincio-host",
+    "storage_bucket": "pincio-host.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70715398538:android:fdf78ceafdb8abb23ad073",
+        "android_client_info": {
+          "package_name": "com.suappstudio.pincioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70715398538-2j7prpt4glg8nnet8ev22q9k8g5of3ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suappstudio.pincioapp",
+            "certificate_hash": "d297a6b3c7a66c85beab80775593027ceb37957f"
+          }
+        },
+        {
+          "client_id": "70715398538-g50kas5rj19v2jl0ob5a88mjlk5qs6oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8xbPKVm7oIKKH7s_2KGYQyC-i-1fLSYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70715398538-g50kas5rj19v2jl0ob5a88mjlk5qs6oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

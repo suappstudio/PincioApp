@@ -101,6 +101,7 @@ class LoginViewModel @Inject constructor() : ViewModel() {
 
     private fun getCurrentUser() : FirebaseUser? {
         val user = Firebase.auth.currentUser
+
         Log.d(TAG, "user display name: ${user?.displayName}, email: ${user?.email}")
         return user
     }
